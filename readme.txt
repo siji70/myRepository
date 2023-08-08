@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 omg,amazing!!
 Creating a new branch is quick.~
 this is branch conflict No2~
+this is a tr
 
